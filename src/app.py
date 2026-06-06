@@ -39,6 +39,43 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     }
+    ,
+    "Basketball Club": {
+        "description": "Learn basketball skills and teamwork",
+        "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Swimming Team": {
+        "description": "Practice swimming and compete in meets",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Painting Workshop": {
+        "description": "Explore painting techniques and creativity",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Drama Society": {
+        "description": "Perform plays and improve acting skills",
+        "schedule": "Fridays, 4:00 PM - 6:00 PM",
+        "max_participants": 25,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging math problems",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    "Debate Team": {
+        "description": "Develop public speaking and critical thinking",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    }
 }
 
 
